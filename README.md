@@ -6,3 +6,5 @@ I am a BSc Economics and International Relations student at Loyola University, S
 1. [IR Thesis](https://github.com/jbgb13/PredictorsCCP): Code and working paper of my International Relations thesis: What shapes climate change perceptions in Africa? 
 
 2. [CCP Predictors](https://github.com/jbgb13/PredictorsCCP_PLOS.git): Data, code and working paper for "What shapes climate change perceptions in Africa?" publication, with Alfonso Sanchez.
+
+3. [My CV](https://github.com/jbgb13/jbgb13/blob/main/CV.pdf)
