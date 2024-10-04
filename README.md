@@ -1,7 +1,7 @@
 # Juan B González
 
 Welcome to my GitHub page! 
-I am a MRes in Economics & Psychology student at Paris School of Economics, France. My research field is behavioral and experimental economics. I am interested in poverty, inequality and climate change. In this page you will find: 
+I am a PhD in Economics student at University of Southern California, Los Angeles. My research field is behavioral and experimental economics. I am interested in how cognitive biases generate statistical discrimination and backlash. In this page you will find: 
 
 1. [Climate change beliefs in Africa](https://github.com/jbgb13/PredictorsCCB_PLOS.git): Data, code and manuscript for _"Multilevel predictors of climate change beliefs in Africa"_ (2022), PLoS One, with Alfonso Sánchez.
 
